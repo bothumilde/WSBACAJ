@@ -25,8 +25,7 @@ _Presiona para ver el vídeo_
 ## Construido con 🛠️
 
 * [HTML+CSS+JS+PHP]- Lenguajes web usados
-* [JQuery]- Maneja solicitudes AJAX 
-* [DataTables]- Para tener filtros en las tablas
+* [JQuery-DataTables] -Tablas con filtros y algunos scripts
 
 ## Autores ✒️
 
